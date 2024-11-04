@@ -14,3 +14,4 @@ Sith aesthetic. The lightsaber is activated by left mouse click on the hilt of t
 ## Demo
 For a demonstration of the Sith lightsaber in action, please watch the video below:
 
+https://github.com/user-attachments/assets/771418e1-834a-44d7-a162-e7114db6b192
